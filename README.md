@@ -6,15 +6,14 @@
 ## 🚀 نصب و اجرا
 
 برای اجرای مهاجرت از مرزبان به پاسارگارد ، دستور زیر را اجرا کنید:
-
 ```bash
-bash <(curl -s https://raw.githubusercontent.com/mohmrzw/pasarguard-migration/main/migrate.sh)
+bash <(curl -sL https://raw.githubusercontent.com/mohmrzw/Pasarify/main/Pasarify.sh)
 ````
 
 یا با استفاده از wget:
 
 ```bash
-bash <(wget -qO- https://raw.githubusercontent.com/mohmrzw/pasarguard-migration/main/migrate.sh)
+bash <(wget -qO- https://raw.githubusercontent.com/mohmrzw/Pasarify/main/Pasarify.sh)
 ```
 ---
 ## ⚙️ قبل از اجرای اسکریپت
